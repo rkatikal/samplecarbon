@@ -22,8 +22,8 @@ module.exports = {
       options: {
         repository: {
           baseUrl:
-            'https://github.com/carbon-design-system/gatsby-theme-carbon',
-          subDirectory: '/packages/example',
+            'https://github.com/rkatikal/samplecarbon',
+          subDirectory: '/',
         },
       },
     },
