@@ -23,7 +23,7 @@ module.exports = {
         repository: {
           baseUrl:
             'https://github.com/rkatikal/samplecarbon',
-          subDirectory: '/',
+          subDirectory: '/src/pages',
         },
       },
     },
